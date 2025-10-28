@@ -1,3 +1,5 @@
+#Extracting emails, Name from email inbox text file
+
 inp= input('Enter File Name:')
 hand= open(inp)
 for line in hand:
