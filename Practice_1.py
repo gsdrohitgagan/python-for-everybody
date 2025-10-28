@@ -10,7 +10,7 @@ for a in inp:
     for x in c:
         if x==a:
             k=0
-            #quit()
+            break
     if k==1:
         for b in inp:
             if a==b:
