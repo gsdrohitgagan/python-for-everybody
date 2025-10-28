@@ -26,6 +26,6 @@ for a in inp:
         
 print('Most repeated letter is:',char,'Repeated:',max)    
 list= sorted(list)
-print(list)
+#print(list)
 for i,j in list:
     print(i,j)
